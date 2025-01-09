@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+fhdsfhskdfs
+hello from update branch
+=======
 dhfdsjfdshfjdsfhdshfhdsfhdsf
 hello from master
+>>>>>>> 0216aeafda795c885ea769965d5980bfba5fcfaf
